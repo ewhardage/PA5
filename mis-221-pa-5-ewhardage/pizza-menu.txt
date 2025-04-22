@@ -1,0 +1,4 @@
+0#Cheese#1#thin#11.99#False#True
+1#Sausage#1#thick#11.49#False#False
+2#Hawaiin#3#stuffed#13.99#False#True
+3#Pepporoni#1#thick#11.99#False#True

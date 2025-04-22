@@ -1,0 +1,15 @@
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/bin/Debug/net8.0/mis-221-pa-5-ewhardage
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/bin/Debug/net8.0/mis-221-pa-5-ewhardage.deps.json
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/bin/Debug/net8.0/mis-221-pa-5-ewhardage.runtimeconfig.json
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/bin/Debug/net8.0/mis-221-pa-5-ewhardage.dll
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/bin/Debug/net8.0/mis-221-pa-5-ewhardage.pdb
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.AssemblyInfoInputs.cache
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.AssemblyInfo.cs
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.csproj.CoreCompileInputs.cache
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.sourcelink.json
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.dll
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/refint/mis-221-pa-5-ewhardage.dll
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.pdb
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/mis-221-pa-5-ewhardage.genruntimeconfig.cache
+/Users/ehardage/Desktop/Code/MIS221/mis-221-pa-5-ewhardage/obj/Debug/net8.0/ref/mis-221-pa-5-ewhardage.dll

@@ -1,0 +1,6 @@
+0#ethanhardage@gmail.com#1#2025-04-21#12#thick#False
+1#ethanhardage@gmail.com#0#2025-04-21#8#thin#False
+2#ethanhardage@gmail.com#0#2025-04-21#16#thin#False
+3#ethanhardage@gmail.com#0#2025-04-21#16#thin#False
+4#ethanhardage@gmail.com#2#2025-04-21#8#stuffed#False
+5#ewhardage@crimson.ua.edu#3#2025-04-21#12#thick#False
